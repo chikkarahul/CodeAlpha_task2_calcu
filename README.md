@@ -1,1 +1,1 @@
-# CodeAplha_task2_calcu
+# CodeAlpha_task2_calcu
